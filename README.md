@@ -1,5 +1,5 @@
 # (Blender-3.0-Beta) geometry-nodes-multi-array
-Blender-3.0-Beta Geometry nodes for arraying objects on X, Y, and Z axis.
+Array objects on X, Y, and Z axis w/o randomized rotation / scale.
 
 I pieced these together for my own personal use but figured
 I'd give back to the Blender community some stuffs to have
