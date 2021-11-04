@@ -1,4 +1,4 @@
-# geometry-nodes-multi-array
+# (Blender-3.0-Beta) geometry-nodes-multi-array
 Blender-3.0-Beta Geometry nodes for arraying objects on X, Y, and Z axis.
 
 I pieced these together for my own personal use but figured
